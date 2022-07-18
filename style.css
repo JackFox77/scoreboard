@@ -1,4 +1,4 @@
-:root{
-    --hometeam:
-    --awayteam:
+:root {
+  --hometeam: blue;
+  --awayteam: red;
 }
