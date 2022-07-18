@@ -1,4 +1,14 @@
 :root {
-  --hometeam: blue;
-  --awayteam: red;
+  --hometeam: rgb(94, 94, 152);
+  --awayteam: rgb(208, 119, 119);
+}
+
+.homeTeam {
+  background-color: var(--hometeam);
+  font-weight: bold;
+}
+
+.awayTeam {
+  background-color: var(--awayteam);
+  font-weight: bold;
 }
